@@ -1,0 +1,6 @@
+{
+  "name": "TV & UHF Emergency Band Scanner",
+  "description": "Real-time tactical radio scanner monitoring TV1 (VHF-Low 54-88 MHz), TV2 (VHF-High 174-216 MHz), and UHF (400-512 MHz) emergency frequencies, public safety dispatch, EAS broadcasts, and spectrum waterfalls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
